@@ -1,4 +1,4 @@
-## Bem Vindo! Meu nome é Matheus Lehnen 👋
+## Welcome! My name is Matheus Lehnen 👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-lehnen/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mlehnnen/)
 <br>
@@ -7,7 +7,7 @@
 <br>
 <br>
 <br>
-### Tecnologias que utilizo no meu dia a dia:
+### Technologies I use constantly:
 <div style="display: inline-block"> 
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -21,7 +21,7 @@
 <br>
 <br>
 
-### Vídeo do projeto Recicash
+### Recicash project videos
 - [Recicash Home](https://reccloud.com/pt/u/9k9s9dk)<br/>
 - [Recicash Gerador de Resíduo](https://reccloud.com/pt/u/u26r6ik)<br/>
 - [Recicash Ponto de Coleta](https://reccloud.com/pt/u/mlbh0xg)<br/>
