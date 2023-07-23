@@ -23,8 +23,8 @@
 
 ### Recicash project videos
 - [Recicash Home](https://reccloud.com/pt/u/9k9s9dk)<br/>
-- [Recicash Gerador de Resíduo](https://reccloud.com/pt/u/u26r6ik)<br/>
-- [Recicash Ponto de Coleta](https://reccloud.com/pt/u/mlbh0xg)<br/>
+- [Recicash Customer](https://reccloud.com/pt/u/u26r6ik)<br/>
+- [Recicash Warehouse](https://reccloud.com/pt/u/mlbh0xg)<br/>
 
 
 
